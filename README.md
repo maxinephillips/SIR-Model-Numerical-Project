@@ -1,2 +1,2 @@
 # SIR-Model-Numerical-Project
-Numerical project
+Hannah, Corentin, and Maxine's numerical project!
